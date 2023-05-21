@@ -1,0 +1,17 @@
+name: manbo_app
+description: manbo_app
+version: 1.0.0
+
+environment:
+  sdk: '>=2.16.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.10
+
+  sensors_plus: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
